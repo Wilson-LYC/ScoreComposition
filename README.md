@@ -8,3 +8,5 @@
 点击各科的总成绩
 
 ![image](https://github.com/Wilson-LYC/ScoreComposition/assets/61262980/a25bb847-73a1-44c6-848c-6e7c5813f976)
+
+![image](https://github.com/Wilson-LYC/ScoreComposition/assets/61262980/d6f89125-b1e5-42ae-b095-0455473c41fe)
