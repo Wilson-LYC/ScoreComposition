@@ -22,5 +22,9 @@
         href=href.replace("',700,500)","");
         a.setAttribute('href',href);
         a.setAttribute('target','_blank');
+        a.onclick = function() {
+            window.open(href, '_blank', 'width=800,height=600');
+            return false;
+        };
     }
 })();
