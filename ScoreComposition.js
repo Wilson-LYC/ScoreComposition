@@ -1,10 +1,11 @@
 // ==UserScript==
-// @name         分数助手V0.1
+// @name         广外教务系统平时分助手
 // @namespace    https://jxgl.gdufs.edu.cn/
 // @version      2024-01-11
-// @description  欢迎使用！
+// @description  在chrome内核浏览器中查看平时成绩
 // @author       Wilson
 // @match        https://jxgl.gdufs.edu.cn/jsxsd/kscj/cjcx_list
+// @match        https://jxgl-443.webvpn.gdufs.edu.cn/jsxsd/kscj/cjcx_list
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=gdufs.edu.cn
 // @grant        none
 // ==/UserScript==
